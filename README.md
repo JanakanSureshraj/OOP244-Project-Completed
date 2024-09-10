@@ -9,3 +9,4 @@ The whole system was built based on the Object-Oriented Programming paradigm and
 - Dynamic Memory Allocation (Destruction)
 - File Handling
 - Input and Output Refinements
+- C++ Language Standards and Standard Library Functions
